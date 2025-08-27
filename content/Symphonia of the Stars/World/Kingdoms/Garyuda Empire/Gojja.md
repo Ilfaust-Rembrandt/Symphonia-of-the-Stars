@@ -1,0 +1,1 @@
+Gojja is the second largest city within the Garyuda Empire, the main center of tradition for the empire, Gojja is renowned for its traditional dances, myths, food, and artifacts.

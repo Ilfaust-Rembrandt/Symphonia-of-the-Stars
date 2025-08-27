@@ -1,0 +1,8 @@
+> <span style="color:rgb(255, 255, 0)">"At the edge of Destiny, there lies knowledge limitless"</span>
+> <span style="color:rgb(255, 255, 0)">- Isaac Varicosa</span> 
+
+**Sidera Ultima**, was prophesied within [[Sidera Prima]] to appear within the 5th [[Cycles|Cycle]] of the world, however it started to appear suddenly within the 3rd [[Cycles|Cycle]], it broke through the space between the Blasphemed Continent and the World, creating a rift in the Deep Abyssal Seas, from within the rift whispers can be heard, those who gaze into the rift became stronger and rose to godhood, however after a few weeks, their minds starts to break, their bodies mutate and become grotesque.
+
+Those who mutated became known as the Mad Gods, they hunted humans and monsters alike, eating anything and everything in their paths, galaxies have been consumed by them, stars have disappeared due to them.
+
+The **Sidera Ultima** is now currently not in the hands of any kingdom, it has been theorized from information obtained from [[Grashkara, Jaded Star]] that it is somewhere within the Blasphemed Continent, it matches with the sudden increase of monsters and Starbounds that have gone mad, however those that were sent to the continent never came back, and the rift it came from has not been sealed, it constantly whispers to Starbounds who are looking for more power, granting them the power they wish, for a heavy price.
