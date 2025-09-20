@@ -10,6 +10,5 @@ There are many type of **Priests** and depending on the god they serve, such as;
 
 1. Priest of Storms
 	The Priest of storms are responsible in keeping ships afloat, they serve the goddess [[Seralyne, Goddess of the Seas|Seralyne]]. They hail mostly from [[Kingdom of the Seas, Velis Mare|The Sea Kingdom, Velis Mare]]. Some of the blessings they have obtained are;
-	1. "Wrath of the Oceans" [Passive]
-	2. 
+	1. "Wrath of the Oceans"
 	

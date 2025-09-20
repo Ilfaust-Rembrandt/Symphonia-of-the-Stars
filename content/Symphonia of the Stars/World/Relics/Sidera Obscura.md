@@ -5,7 +5,7 @@
 
 However when [[Nadira, Goddess of Death|Nadira]] gazed into it, she gained knowledge of her past life, for she was a Reincarnated, she was an emergency response team nurse from Egypt, with knowledge of her past life, she started making medicine, which earned her the Title, <span style="color:rgb(0, 176, 80)">"Lady of Healing"</span>.
 
- The **Sidera Obscura** is currently housed under high security by [Insert Talent Agency Name Here Later].
+ The **Sidera Obscura** is currently in an undisclosed location.
 
 The **Sidera Obscura** holds information regarding the hidden constellations, such as;
 

@@ -37,3 +37,12 @@ An Idol under Veilstar Entertainment, you perform upon large crowds and ease the
 
 i. Cultist,
 A Cultist functions similarly to a Priest, however where the priests obtain their powers from an orthodox source such as the four gods and goddesses, the cultists draw power from unorthodox sources, such as demons, outer gods, or great old ones.
+
+## Skills
+
+For Starbounds certain skills are marked with certain symbols or text to tell you of their powers;
+
+- Skills with (○) are Peak Human conditions, such as speeds matching that of an athlete.
+- Skills with (◎) are Super Human conditions, for example herculean strengths, able to break large boulders in two with a single punch.
+- Skills with (EX) are Demigod conditions, for example, bullet proof durability.
+- Skills with (G) are Godly conditions, for example, creation and absolute destruction.
