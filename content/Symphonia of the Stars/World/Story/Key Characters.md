@@ -6,7 +6,7 @@
 
 ### Director Zero
 
-**Director Zero** is the Director and leader of the Zodiac 12, a Starbound of the Hydra constellation, his unique skill is;
+**Director Zero** is the Director and leader of the Zodiac 12, a Starbound of the [[Pathway of the Dragon, Hydra Constellation|Hydra]] constellation, his unique skill is;
 
 Azure Dragon of the East (★): This Unique skill covers the user in a blue aura, while enveloped in this aura, the user's attacks will hit, no matter the defense of the target, damage towards the target will be bounced back.
 
@@ -14,13 +14,13 @@ No one knows what he looks like, and even the unique skill mentioned above is he
 
 ### Agent 1, Quake
 
-**Quake** is the first of the Zodiac 12, a Starbound of the Taurus Constellation, his unique skill is;
+**Quake** is the first of the Zodiac 12, a Starbound of the [[Pathway of the Bull, Taurus Constellation|Taurus]] Constellation, his unique skill is;
 
 Black Tortoise of the North (★): The user assumes a stance, either the Spear Stance or the Shield stance, while in the Spear Stance, the user will be unable to use any weapons, but any damage that the user deals will keep dealing damage over ten seconds. While the user is in the Shield Stance, no damage is taken. (150s CD).
 
 ### Agent 2, Star
 
-**Star** is the second of the Zodiac 12, a Starbound of the Sagittarius Constellation, her unique skill is;
+**Star** is the second of the Zodiac 12, a Starbound of the [[Pathway of the Archer, Sagittarius Constellation|Sagittarius]] Constellation, her unique skill is;
 
 *Enjoy the Show!* (★): The user will start a concert, allies that hear the user's songs will be healed for 20% of their max HP at the start of every turn, Deal 20% more damage, and use 20% less Starlight. (120s CD).
 
@@ -30,13 +30,13 @@ She is a moderately tall woman, standing at a height of 6 foot 2 inches (188 Cm)
 
 **Flash** is the third of the Zodiac 12, He is a young man in his early 20s, he is petite and some call him cute, however he has a short temper and is angered easily, he has broad shoulders and carries himself with pride, his blazing red narrow eyes are always burning with rage or focus.
 
-He is of the Phenex Constellation, his unique skill is; 
+He is of the [[Pathway of the Phoenix, Phenex Constellation|Phenex]] Constellation, his unique skill is; 
 
 *Full Power, Again* (★): Once per turn, when the user is below 10% hp, heal back to full, gain +10 to all stats, and all damage inflicted to the user will be dealt as damage over time (for example: 180 Damage will be dealt as 30 damage for 6 turns instead).
 
 ### Agent 4, Jackpot
 
-**Jackpot** is the fourth of the Zodiac 12, She is a young lady of the Gemini Constellation, she is short and petite, with small shoulders and a circular shaped face, her wide green emerald like eyes radiate a soft sister-like energy.
+**Jackpot** is the fourth of the Zodiac 12, She is a young lady of the [[Pathway of the Twins, Gemini Constellation|Gemini]] Constellation, she is short and petite, with small shoulders and a circular shaped face, her wide green emerald like eyes radiate a soft sister-like energy.
 
 Her unique skill is;
 
@@ -46,7 +46,7 @@ Vermillion Bird of the South (★): Hits taken from the user will burn the targe
 
 **Luck** is the fifth of the Zodiac 12, Sister to the fourth agent, **Jackpot**.
 
-She is a slim and medium heighted girl in her early 20s, She has a long blonde hair with blue highlights in the inside, her eyes are blue and shine like the stars, with her Unique skill giving her X like pupils, she is slender yet firm, her muscles are toned as a result of her past as an acrobat and Idol, she was in the same Idol Group as the second agent, **Star**, even though they were different generations.
+She is a slim and medium heighted girl in her early 20s, She has a long blonde hair with blue highlights in the inside, her eyes are blue and shine like the stars, with her Unique skill giving her X like pupils, she is slender yet firm, her muscles are toned as a result of her past as an acrobat and Idol, she was in the same Idol Group as the second agent, **Star**, even though they were different generations. Her Pathway is the same as her Sister's, [[Pathway of the Twins, Gemini Constellation|Gemini]].
 
 Her Unique Skill is;
 
@@ -58,7 +58,7 @@ Her Unique Skill is;
 
 He is a black haired man that looks like he is in his early 30s, his eyes are droopy and soft, and the circles under his eyes are visible and dark, he is a lanky character, being 6 foot 5 (198 cm). He wears a black trench coat above a black three piece suit, his messy hair always covered under a black fedora with a white band around it, he wears a gold monocle and always carries a briefcase around.
 
-His Pathway is that of the Snake, Ophiuchus, and his unique skill is unknown, due to the nature of Daniel being solitary, however just like Director Zero, there are hearsay of his Unique Skill;
+His Pathway is that of the Snake, [[Pathway of the Serpent, Ophiuchus Constellation|Ophiuchus]], and his unique skill is unknown, due to the nature of Daniel being solitary, however just like Director Zero, there are hearsay of his Unique Skill;
 
 White Tiger, Byakko (★): Some say Daniel has a pet cat around him, rumors say this cat can transform into a large white furred tiger that devours everything in a single gulp, and potentially merge with Daniel.
 

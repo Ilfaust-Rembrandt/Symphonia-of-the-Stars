@@ -41,40 +41,33 @@ The Above the sequence of the Sagittarius Pathway is <font color="#95b3d7">"The 
 - Danger Sense ◎
 - Agility ◎
 - Durability ○
-- Starlight Infusion: You can Infuse your weapons with faint starlight, which increases their durability and effectiveness.
+- Starlight Infusion (○): You can Infuse your weapons with faint starlight, which increases their durability and effectiveness.
 
 ### Sequence 7, Stargazer
 
-**Abilities**
+**NEW Abilities**
 
-- Starlight Materialization ○: You can shape Starlight into a small object with the maximum weight of 5kg
+- Starlight Materialization (○): You can shape Starlight into a small object with the maximum weight of 5kg
 - Durability ◎ 
 - Agility EX 
 - Strength ○
 - Eyesight ◎
 - Danger Sense EX
-- Night Vision ○
-- Starlight Infusion ○: You can Infuse your weapons with faint starlight, which increases their durability and effectiveness.
 
 ### Sequence 6, Planet Shaper
 
-**Abilities**
+**NEW Abilities**
 
 - Starlight Weaving ◎: You can shape Starlight into a small object with the maximum weight of 20kg
 - Durability EX
-- Agility EX
 - Strength ◎
-- Eyesight ◎
-- Starlight Danger EX: Danger Sense now lights up nearby sources of danger or things that maybe out of place.
-- Starlight Infusion ○: You can Infuse your weapons with faint starlight, which increases their durability and effectiveness.
+- Starlight Danger (EX): Danger Sense now lights up nearby sources of danger or things that maybe out of place.
 
 ### Sequence 5, Starkin
 
-**Abilities**
+**NEW Abilities**
 
 - Invisibility ○
-- Durability EX
-- Agility EX
 - Eyesight EX
 - Strength ◎
 - Starlight Infusion ◎: You can Infuse your weapons with pure starlight, increasing their durability immensely and effectiveness, and adding an effect unto it, such as, Burn, Blight, Curse, Freeze, Shock, or Holy.
@@ -82,15 +75,11 @@ The Above the sequence of the Sagittarius Pathway is <font color="#95b3d7">"The 
 
 ### Sequence 4, Star Heart
 
-**Abilities**
+**NEW Abilities**
 
 - Invisibility ◎
-- Durability EX
-- Agility EX
-- Eyesight EX
 - Strength EX
-- Starlight Infusion ◎: You can Infuse your weapons with pure starlight, increasing their durability immensely and effectiveness, and adding an effect unto it, such as, Burn, Blight, Curse, Freeze, Shock, or Holy.
-- Starlight Weaving ◎: You can shape Starlight into a small object with the maximum weight of 20kg
+- **Fusion Core** (EX): You generate excess Starlight, this excess starlight can be turned into a healing aura that heals nearby allies, or it can be turned into rings that buff your overall damage.
 
 ### Sequence 3, Star Hunter
 

@@ -14,7 +14,7 @@ For now, please browse upon our available information, or if you would like, ple
 a. [[Priest]],
 A Priest is a noble profession that works under the many churches, such as Church of the Moon, Church of Machinations, Church of Voyages, and Church of the sun.
 
-b. Researcher,
+b. [[Researcher]],
 A Researcher works under major corporations around the world, they have proficiency in alchemy and medicine.
 
 c. Immortal,
